@@ -9,5 +9,7 @@ class Example{
         System.out.println("Hello worlduuuuu");
         System.out.println("saiteja");
         System.out.println("Kunchepu");
+        int a1 = 10;
+        int b1 = 20;
     }
 }
