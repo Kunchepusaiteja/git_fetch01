@@ -11,5 +11,6 @@ class Example{
         System.out.println("Kunchepu");
         int a1 = 10;
         int b1 = 20;
+        System.out.println(a1+b1);
     }
 }
